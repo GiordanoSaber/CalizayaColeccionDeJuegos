@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D84948B028FDE837004FD7EE /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84948AF28FDE837004FD7EE /* JuegosViewController.swift */; };
 		D8EFFB5528FDD95D0074A4A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EFFB5428FDD95D0074A4A4 /* AppDelegate.swift */; };
 		D8EFFB5728FDD95D0074A4A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EFFB5628FDD95D0074A4A4 /* SceneDelegate.swift */; };
 		D8EFFB5928FDD95D0074A4A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EFFB5828FDD95D0074A4A4 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D84948AF28FDE837004FD7EE /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		D8EFFB5128FDD95D0074A4A4 /* CalizayaColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalizayaColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8EFFB5428FDD95D0074A4A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8EFFB5628FDD95D0074A4A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				D8EFFB5428FDD95D0074A4A4 /* AppDelegate.swift */,
 				D8EFFB5628FDD95D0074A4A4 /* SceneDelegate.swift */,
+				D84948AF28FDE837004FD7EE /* JuegosViewController.swift */,
 				D8EFFB5828FDD95D0074A4A4 /* ViewController.swift */,
 				D8EFFB5A28FDD95D0074A4A4 /* Main.storyboard */,
 				D8EFFB6028FDD9610074A4A4 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D84948B028FDE837004FD7EE /* JuegosViewController.swift in Sources */,
 				D8EFFB5928FDD95D0074A4A4 /* ViewController.swift in Sources */,
 				D8EFFB5F28FDD95D0074A4A4 /* CalizayaColeccionDeJuegos.xcdatamodeld in Sources */,
 				D8EFFB5528FDD95D0074A4A4 /* AppDelegate.swift in Sources */,
